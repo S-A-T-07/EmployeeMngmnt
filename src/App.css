@@ -1,0 +1,20 @@
+.app-container {
+  padding: 2rem;
+}
+
+.page-title {
+  color: #2c3e50;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+}
+
+.card-title {
+  color: #34495e;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
